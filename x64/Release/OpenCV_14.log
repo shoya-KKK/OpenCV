@@ -1,0 +1,22 @@
+﻿  opencv-14.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\opencv-14.cpp(55,19): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\opencv-14.cpp(54,19): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\opencv-14.cpp(21,9): warning C4101: 'corner_count': ローカル変数は 1 度も使われていません。
+C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\opencv-14.cpp(22,9): warning C4101: 'p_count': ローカル変数は 1 度も使われていません。
+C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\opencv-14.cpp(21,23): warning C4101: 'found': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  1 of 434 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  OpenCV_14.vcxproj -> C:\Users\ayash\Documents\Watanabe Lab\OpenCV_Implementation\OpenCV_14\x64\Release\OpenCV_14.exe
